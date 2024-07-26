@@ -1,5 +1,12 @@
 # NFT Staking Contract
 
+# Deployed Contract Addresses
+
+- RewardToken deployed to: 0x1E80aF95e3FA22CBCC9860602Efc81f937031231
+- NFTToken deployed to: 0xF204248E964Cf9Dc7De9C3670A6BF68506472813
+- Proxy deployed to: 0x252b4AE2eA4993C72574AC24E9725F656eC50B42
+- NFTStaking deployed to: 0xc2147115dE66887eA226F5a0b5a617EF62b1fe73
+
 ## Overview
 This contract allows users to stake NFTs and earn ERC20 rewards. The contract supports upgradeability using the UUPS pattern.
 
